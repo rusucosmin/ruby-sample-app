@@ -1,0 +1,45 @@
+
+   *----------------------------------------------------------*
+   | There are two ways of constructing a software design:    |
+   | One way is to make it so simple that there are obviously |
+   | no deficiencies, and the other way is to make it so      |
+   | complicated that there are no obvious deficiencies.      |
+   |                                                          |
+   | - C.A.R. Hoare                                           |
+   *----------------------------------------------------------*
+          o
+           o   ^__^
+            o  (oo)\_______
+               (__)\       )\/\
+                   ||----w |
+                   ||     ||
+
+   [e]  <empty buffer>
+
+   MRU
+
+   [0]  ~/projects/ruby-sample-app/config/routes.rb
+   [1]  ~/projects/cosmin.cpp
+   [2]  ~/projects/ruby-sample-app/db/seeds.rb
+   [3]  ~/projects/ruby-sample-app/test/controllers/users_controller_test.rb
+   [4]  ~/projects/ruby-sample-app/test/integration/users_index_test.rb
+   [5]  ~/projects/ruby-sample-app/app/controllers/users_controller.rb
+   [6]  ~/projects/ruby-sample-app/test/fixtures/users.yml
+   [7]  ~/projects/ruby-sample-app/app/views/users/_user.html.erb
+   [8]  ~/projects/ruby-sample-app/db/migrate/20170504085614_add_admin_to_users.rb
+   [9]  ~/projects/ruby-sample-app/config/application.rb
+
+   MRU /Users/cosmin/projects/ruby-sample-app
+
+   [10] config/routes.rb
+   [11] db/seeds.rb
+   [12] test/controllers/users_controller_test.rb
+   [13] test/integration/users_index_test.rb
+   [14] app/controllers/users_controller.rb
+   [15] test/fixtures/users.yml
+   [16] app/views/users/_user.html.erb
+   [17] db/migrate/20170504085614_add_admin_to_users.rb
+   [18] config/application.rb
+   [19] Gemfile
+
+   [q]  <quit>
